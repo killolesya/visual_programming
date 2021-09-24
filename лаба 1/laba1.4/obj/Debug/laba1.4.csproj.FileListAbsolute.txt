@@ -1,0 +1,20 @@
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\bin\Debug\laba1.4.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\bin\Debug\laba1.4.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\bin\Debug\laba1.4.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1.4.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1._4.Form1.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1._4.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1.4.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1.4.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1.4.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.4\obj\Debug\laba1.4.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\bin\Debug\laba1.4.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\bin\Debug\laba1.4.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\bin\Debug\laba1.4.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1.4.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1._4.Form1.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1._4.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1.4.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1.4.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1.4.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 1\laba1.4\obj\Debug\laba1.4.pdb

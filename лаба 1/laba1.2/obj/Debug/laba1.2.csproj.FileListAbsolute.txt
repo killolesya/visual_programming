@@ -1,0 +1,10 @@
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\bin\Debug\laba1.2.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\bin\Debug\laba1.2.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\bin\Debug\laba1.2.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1.2.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1._2.Form1.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1._2.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1.2.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1.2.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1.2.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\laba1.2\obj\Debug\laba1.2.pdb
