@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\лаба 2\\laba2.6\\laba2.6.csproj",
+      "projectUniqueName": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\visual_programming\\лаба 2\\laba2.6\\laba2.6.csproj",
       "projectName": "laba2.6",
-      "projectPath": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\лаба 2\\laba2.6\\laba2.6.csproj",
+      "projectPath": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\visual_programming\\лаба 2\\laba2.6\\laba2.6.csproj",
       "packagesPath": "C:\\Users\\olesy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\лаба 2\\laba2.6\\obj\\",
+      "outputPath": "C:\\Users\\olesy\\OneDrive\\Рабочий стол\\ВП\\visual_programming\\лаба 2\\laba2.6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olesy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\bin\Debug\laba3.1.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\bin\Debug\laba3.1.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\bin\Debug\laba3.1.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3.1.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3._1.Form1.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3._1.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3.1.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3.1.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3.1.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 3\laba3.1\obj\Debug\laba3.1.pdb
