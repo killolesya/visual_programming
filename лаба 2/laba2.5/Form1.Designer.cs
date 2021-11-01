@@ -117,11 +117,11 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.label5.Location = new System.Drawing.Point(300, 50);
+            this.label5.Location = new System.Drawing.Point(215, 37);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(237, 24);
+            this.label5.Size = new System.Drawing.Size(366, 24);
             this.label5.TabIndex = 8;
-            this.label5.Text = "Ваши оценки за семестр:";
+            this.label5.Text = "Ваши оценки за семестр (в процентах):";
             // 
             // label6
             // 

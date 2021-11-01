@@ -113,6 +113,8 @@ namespace laba2._6
                                 if (temp > 4 && hundreds.Count > 2)
                                     f = "ов";
                             }
+                            else if (hundreds.Count > 2)
+                                f = "ов";
                         }
                         if (hundreds.Count == 2)
                             temp = 1000;
@@ -135,6 +137,11 @@ namespace laba2._6
             {
                 label2.Text = "Неверно введены данные.";
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

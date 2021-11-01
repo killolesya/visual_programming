@@ -8,3 +8,13 @@ C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 2\laba2.3\bin\Debu
 C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 2\laba2.3\bin\Debug\laba2.3.pdb
 C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 2\laba2.3\obj\Debug\laba2.3.exe
 C:\Users\olesy\OneDrive\Рабочий стол\ВП\лаба 2\laba2.3\obj\Debug\laba2.3.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\bin\Debug\laba2.3.exe.config
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\bin\Debug\laba2.3.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\bin\Debug\laba2.3.pdb
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2.3.csprojAssemblyReference.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2._3.Form1.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2._3.Properties.Resources.resources
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2.3.csproj.GenerateResource.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2.3.csproj.CoreCompileInputs.cache
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2.3.exe
+C:\Users\olesy\OneDrive\Рабочий стол\ВП\visual_programming\лаба 2\laba2.3\obj\Debug\laba2.3.pdb

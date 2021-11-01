@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -68,9 +69,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.Location = new System.Drawing.Point(25, 143);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(256, 20);
+            this.label3.Size = new System.Drawing.Size(270, 20);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Первоначальная цена 250000";
+            this.label3.Text = "Первоначальная цена 250000р.";
             // 
             // checkBox1
             // 
@@ -78,9 +79,9 @@
             this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F);
             this.checkBox1.Location = new System.Drawing.Point(40, 191);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(199, 24);
+            this.checkBox1.Size = new System.Drawing.Size(213, 24);
             this.checkBox1.TabIndex = 3;
-            this.checkBox1.Text = "Зимние колеса 9000";
+            this.checkBox1.Text = "Зимние колеса 9000р.";
             this.checkBox1.UseVisualStyleBackColor = true;
             // 
             // checkBox2
@@ -89,9 +90,9 @@
             this.checkBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F);
             this.checkBox2.Location = new System.Drawing.Point(40, 234);
             this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(280, 24);
+            this.checkBox2.Size = new System.Drawing.Size(294, 24);
             this.checkBox2.TabIndex = 4;
-            this.checkBox2.Text = "Противотуманные фары 7000";
+            this.checkBox2.Text = "Противотуманные фары 7000р.";
             this.checkBox2.UseVisualStyleBackColor = true;
             // 
             // checkBox3
@@ -100,9 +101,9 @@
             this.checkBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F);
             this.checkBox3.Location = new System.Drawing.Point(40, 274);
             this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(191, 24);
+            this.checkBox3.Size = new System.Drawing.Size(205, 24);
             this.checkBox3.TabIndex = 5;
-            this.checkBox3.Text = "Сигнализация 8000";
+            this.checkBox3.Text = "Сигнализация 8000р.";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // button1
@@ -137,10 +138,10 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::laba3._1.Properties.Resources.лада;
-            this.pictureBox1.Location = new System.Drawing.Point(326, 52);
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(340, 37);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(507, 259);
+            this.pictureBox1.Size = new System.Drawing.Size(500, 269);
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             // 
@@ -160,10 +161,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Стоимость автомобиля";
-            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

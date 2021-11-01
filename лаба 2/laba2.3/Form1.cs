@@ -20,11 +20,6 @@ namespace laba2._3
             f = true;
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
             c = 1.3;
@@ -84,7 +79,6 @@ namespace laba2._3
                     default:
                         label4.Text = "Введены неверные данные.";
                         return;
-                        break;
                 }
                 switch (comboBox2.SelectedIndex)
                 {
@@ -106,12 +100,11 @@ namespace laba2._3
                     default:
                         label4.Text = "Введены неверные данные.";
                         return;
-                        break;
                 }
                 if (f)
                     label4.Text = "Введены неверные данные.";
                 else
-                label4.Text = $"Результат: {2000 + 6000 * n * k * prob}";
+                label4.Text = $"Результат: {2000 * c + 6000 * n * k * prob}р.";
             }
             catch
             {

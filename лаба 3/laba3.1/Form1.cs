@@ -17,18 +17,13 @@ namespace laba3._1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             int res = 250000;
             if (checkBox1.Checked) res += 9000;
             if (checkBox2.Checked) res += 7000;
             if (checkBox3.Checked) res += 8000;
-            label5.Text = res.ToString();
+            label5.Text = res.ToString() + "р.";
         }
     }
 }
